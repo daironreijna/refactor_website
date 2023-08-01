@@ -15,6 +15,21 @@ body {
 /* Header 
 ------------------------------------------------------------------------------*/
 
+.nav {
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: none;
+    padding: 0px; 
+}
+
+.right {
+    width: 50%
+    height: 50px;
+    display: flex;
+    justify-content: right;
+    align-items: right;
+}
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
