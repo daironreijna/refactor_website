@@ -55,7 +55,11 @@ A list of resources reviewed during the refactoring of the website.
 
 Coding Boot Camp. (n.d.). Professional README Guide. Request Response The Full Stack Blog. https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 
+GitHub. (n.d.). Basic writing and formatting syntax [Website]. GitHub. https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
 Juviler, J. (2022). How to Create an HTML Tooltip [+ Code Templates]. https://blog.hubspot.com/website/html-tooltip
+
+Stack Overflow. (2014, April 24). A href link not working [Online forum post]. Stack Overflow. https://stackoverflow.com/questions/23282075/a-href-link-not-working
 
 Troung, C. (2022). Refactoring HTML and CSS to Improve Your Codebase [Video]. YouTube. https://www.youtube.com/watch?v=lgjnNAU_z-Y
 
