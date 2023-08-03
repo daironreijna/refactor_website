@@ -47,6 +47,7 @@ Have code reviewed prior to final submission to client.
 4b. improved class and tidied style.css to match the changes.
 4c. updated website title - line 7
 4d. updated footer with scroll to top link. (W3 schools)
+5. Used Flexbox in HTML
 
 
 ## Resources
