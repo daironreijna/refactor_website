@@ -93,10 +93,18 @@ p {
 ------------------------------------------------------------------------------*/
 
 
-.article {
+.section {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+}
+
+.section-flex {
+    margin: 2%;
+}
+
+.flex-parent {
+    display: flex;
 }
 
 /* Aside  
@@ -165,7 +173,7 @@ p {
 /* Taken from W3 website 
 ------------------------------------------------*/
 .myBtn {
-    display: none; /* Hidden by default */
+    display:inline-flex ; /* Hidden by default */
     position: fixed; /* Fixed/sticky position */
     bottom: 20px; /* Place the button at the bottom of the page */
     right: 30px; /* Place the button 30px from the right */
